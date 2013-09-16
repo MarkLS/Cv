@@ -1,0 +1,134 @@
+body
+
+{
+
+	background: url(/Users/marklomnas/Dropbox/c3l/webbteknik/cv/Bilder/Nya/stellar_3d_spheres-wide.jpg)no-repeat center center fixed;
+}
+
+
+html {
+
+	width: 100%;
+	height: 100%;
+}
+
+#wrapper {
+
+	width:70%;
+	height:60%;
+	color:white;
+	margin-left: auto;
+	margin-right: auto;
+	
+
+}
+
+#mig {
+	width:60%;
+	height: 150px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: rgba(190,190,190,0.3);
+	border: solid white 5px;
+	text-align: center;
+	
+
+}
+#mig img {
+	width:30%;
+	height: 100%;
+	float: left;
+}
+
+#utbildningar{
+
+	width: 60%;
+	height: 200px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 500px;
+	border: solid white 5px;
+	background-color: rgba(190,190,190,0.3);
+	text-align: center;
+	text-decoration: none;
+	overflow: scroll;
+}
+
+#utbildningar ul {
+
+	list-style-type: none;
+}
+
+#arbetsliv{
+    width: 60%;
+    height:200px;
+    margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: rgba(190,190,190,0.3);
+	border: solid white 5px;
+	text-align: center;
+	overflow: scroll;
+	
+
+}
+#QandA {
+    width: 60%;
+    height:200px;
+    margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 500px;
+	background-color: rgba(190,190,190,0.3);
+	border: solid white 5px;
+	text-align: center;
+	overflow: scroll;
+	
+}
+
+.QandA{
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+	
+}
+
+.QandA:hover {
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+
+#kontaktinfo {
+	width:60%;
+	height:200px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+    background-color: rgba(190,190,190,0.3);
+	border: solid white 5px;
+	text-align: center;
+
+
+}
+
+#kontaktinfo ul {
+background-color: rgba(190,190,190,0.3);
+	text-align: center;
+	list-style: none;
+}
+
+#kontaktform{
+    width:60%;
+	height:200px;
+	margin-top: 40px;
+	margin-bottom: 20px;
+	margin-left: 500px;
+	background-color: rgba(190,190,190,0.3);
+	border: solid white 5px;
+	text-align: center;
+	overflow: scroll;
+}
+
+

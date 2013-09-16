@@ -1,0 +1,135 @@
+body
+
+{
+
+	background: url(/Users/marklomnas/Dropbox/c3l/webbteknik/cv/Bilder/Nya/stellar_3d_spheres-wide.jpg)no-repeat center center fixed;
+}
+
+
+html {
+
+	width: 100%;
+	height: 100%;
+
+}
+
+#wrapper {
+    font-size: 14px;
+	width:70%;
+	height:70%;
+	color:white;
+	margin-left: auto;
+	margin-right: auto;
+	
+
+}
+
+#mig {
+	width:70%;
+	height: 200px;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	padding-bottom: 20px;
+	background-color: rgba(190,190,190,0.3);
+	border: solid white 5px;
+	text-align: center;
+	
+
+}
+
+#utbildningar {
+	width: 70%;
+    height: 150px;
+    margin-top: 60px;
+	margin-bottom: 60px;
+	margin-left: 0px;
+	border: solid white 5px;
+	background-color: rgba(190,190,190,0.3);
+	text-align: center;
+	text-decoration: none;
+	overflow: scroll;
+}
+
+#utbildningar h3 table{
+width: 100%;
+height: 100px;
+margin-left:0px;
+float:left;
+}
+
+#utbildningar ul {
+
+	list-style-type: none;
+}
+
+#arbetsliv{
+    width: 70%;
+    height: 150px;
+    margin-top: 60px;
+	margin-bottom: 60px;
+	background-color: rgba(190,190,190,0.3);
+	border: solid white 5px;
+	text-align: center;
+	overflow: scroll;
+}
+#QandA {
+    width: 70%;
+    height: 150px;
+    margin-top: 60px;
+	margin-bottom: 60px;
+	margin-left: 0px;
+	background-color: rgba(190,190,190,0.3);
+	border: solid white 5px;
+	text-align: center;
+	overflow: scroll;
+	
+}
+
+.QandA{
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+	
+}
+
+.QandA:hover {
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+}
+
+#kontaktinfo {
+	width: 70%;
+	height: 150px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+background-color: rgba(190,190,190,0.3);
+	border: solid white 5px;
+	text-align: center;
+
+
+}
+
+#kontaktinfo ul {
+background-color: rgba(190,190,190,0.3);
+	text-align: center;
+	list-style: none;
+}
+
+#kontaktform{
+    width: 70%;
+	height: 150px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	margin-left: 0px;
+	background-color: rgba(190,190,190,0.3);
+	border: solid white 5px;
+	text-align: center;
+	overflow: scroll;
+}
+
+
